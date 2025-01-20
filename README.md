@@ -1,1 +1,3 @@
-# Google-Ads-Optimizer-
+# Google-Ads-Optimizer
+
+This project, titled **"Enhancing Search Algorithm Efficacy for Targeted Advertising on Google,"** optimizes Google Ads campaigns using advanced machine learning and data analysis. By analyzing a dataset of 50,000 ad interactions, it identifies key factors influencing click-through rates (CTR) and employs Gradient Boosted Trees (GBT) to predict ad clicks. A dynamic bidding recommender system was developed to adjust bids based on predicted probabilities, improving targeting and ROI. Leveraging tools like Python, Apache Spark, and ML libraries, the project demonstrates the potential for data-driven enhancements in ad relevance, audience engagement, and campaign efficiency.
